@@ -1,8 +1,9 @@
-###<h2 align="center"> 👋 Olá, pessoa!:earth_africa:</h2>
+<h2 align="center"> 👋 Olá, pessoa!:earth_africa:</h2>
 
-My name is Thais Buchevitss, I am a passionate software developer in Brazil :octocat:
+My name is Thais Buchevitss, I am a software developer in Brazil :octocat:
 
 I’m currently learning Java & Angular :atom:
+
 
 😄 Pronouns: ela/she/ella
 ⚡ Fun fact: im also a cheerleader
